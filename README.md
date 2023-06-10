@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # flutter_project
 # flutter_projecte2
 # flutter_projecte2
+# flutter_app
